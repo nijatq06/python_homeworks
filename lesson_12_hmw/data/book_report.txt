@@ -1,0 +1,11 @@
+--------Kitab hesabatı---------
+
+
+Code Da Vinci|Dan Brown|2003
+Python Crash Course|Eric Matthes|2015
+Animal Farm|George Orwell|1945
+1984|George Orwell|1949
+
+Umumi kitablarin sayi: 4
+2000-ci ilin evvel cixan kitablarin sayi: 2
+Orta buraxılış ili: 1978.0
